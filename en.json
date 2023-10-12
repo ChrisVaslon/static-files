@@ -336,7 +336,8 @@
     "INFO_CSS": "You can create or import your own stylesheet to customize your template.",
     "CSS_EMPTY": "/* Type your CSS here */",
     "CSS_COMMENT": "/* CSS generated on Legal-pilot.app */\\n /*https://legal-pilot.com/*/\\n\\n",
-    "UPLOAD_CSS_ERROR": "The file must be in CSS format."
+    "UPLOAD_CSS_ERROR": "The file must be in CSS format.",
+    "DOCUMENT_OPTION" : "Document Option"
   },
   "FORMS": {
     "INFOS": "Operation information",
